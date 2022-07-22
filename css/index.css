@@ -1,0 +1,17 @@
+/*Author{
+	Name :NIKHIL PS;
+	DATE:19/07/2022 ;
+}*/
+*{
+	margin: 0;
+	padding: 0;
+
+}
+
+footer a{
+	text-decoration: none;
+}
+.nik{
+	display: flex;
+	justify-content: space-evenly;
+}
